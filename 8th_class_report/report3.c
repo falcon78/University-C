@@ -1,4 +1,7 @@
-
+/*
+2つの配列str1, str2を用意し、配列str1から配列str2へ値
+をコピーするプログラムを書きなさい。for文を使うこと。
+*/
 #include <stdio.h>
 int main (){
    char string[100]="Test";

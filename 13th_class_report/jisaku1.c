@@ -1,3 +1,10 @@
+/*
+自作問題１ : 関数外部で宣言された要素数nのdouble型配列を3つ考える。
+それら3つ の配列らの先頭要素のアドレスを受け取り、
+1番目と2番目の配列のi 番目の要素に格納されている値の積を
+3番目の配列のi番目の要素 に格納する関数verctor_multiplyを作れ。
+
+*/
 #include <stdio.h>
 void vector_multiply(double* ptr1, double* ptr2, double* ptr3, int n);
 int main (){

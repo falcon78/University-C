@@ -1,3 +1,6 @@
+/*
+自作問題１：挿入ソート？
+*/
 #include <stdio.h>
 int main (){
     int array[5]={5,6,2,3,10};

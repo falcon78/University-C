@@ -1,3 +1,10 @@
+/*
+演習問題１: 2つの正整数を引数としそれらの最大公約 
+数を返却する関数を作成せよ。main関数も作成し
+分割コンパイルをしてみよ。
+
+*/
+
 #include <stdio.h>
 #include "report2_function.h"
 int main (){

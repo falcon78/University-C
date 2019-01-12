@@ -1,3 +1,8 @@
+/*
+自作問題１ : 2つの正整数を引数としそれらの掛け算
+の結果を返却する関数を作成せよ。
+main関数も作成し分割コンパイルをしてみよ。
+*/
 #include <stdio.h>
 #include "report1-1_function.h"
 int main (){

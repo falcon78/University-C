@@ -1,3 +1,10 @@
+/*
+演習問題1 : 演習問題1 次のような頭部をもつ、
+配列から配 列へt個の要素をコピーする関数を作れ。
+配列の 長さは十分に用意されているとする。
+void ary_copy(char*d, char* s, int t)
+*/
+
 #include <stdio.h>
 void vector_add(double* ptr1, double* ptr2, double* ptr3, int n);
 int main (){

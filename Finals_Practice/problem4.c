@@ -22,9 +22,3 @@ void evenoddpart(int* ptr, int* e){
     *ptr = i;
 }
 
-
-
-for(*e = 0; *ptr%2==0; *e++ ){
-    *ptr = *ptr / 2;
-}
-
